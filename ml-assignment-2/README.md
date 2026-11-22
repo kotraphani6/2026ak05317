@@ -2,7 +2,7 @@
 
 **ML Assignment 2 — M.Tech (AIML), BITS Pilani WILP**
 
-- **Live Streamlit app:** `<paste your Streamlit Community Cloud URL here>`
+- **Live Streamlit app:** https://2026ak05317-nauhhr8otwtcakkm6wduy2.streamlit.app/
 - **GitHub repository:** https://github.com/kotraphani6/2026ak05317/tree/BITSMLASSIGNMENT2/ml-assignment-2
 
 ---
